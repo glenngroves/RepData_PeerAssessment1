@@ -1,3 +1,16 @@
+## Assignment Submission
+
+The submission includes the following files and directories:
+
+PA1_template.Rmd - the R Markdown file that created the other files
+PA1_template.md - the Markdown file knitted from the PA1_template.Rmd file
+PA1_template_files\figure-markdown_strict\ - this directory contains images used within PA1_template.md.
+*Please note that the Coursera notes said this would be the "figures" directory. With changes to R/knitr since the course was created, the directory name and structure has changed. The directory structure PA1_template_files\figure-markdown_strict\ is the structure now used.*
+PA1_template.html - the HTML file knitted from the PA1_templated.Rmd file.
+*Please note that the HTML file contains the images embedded directly.*
+
+The remaining notes are from the original version of the README, and explain the assignment itself.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
